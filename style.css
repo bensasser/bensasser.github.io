@@ -11,11 +11,16 @@
   margin:120px;
 }
 
-.try {
-  color:red;
-  font-size:200%;
-}
+.class
 
 .nav {
-  background-color:white;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 25px;
+}
+
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
 }
