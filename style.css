@@ -1,12 +1,17 @@
-h1.yes {
+.yes {
   color:black;
   font-family:courier;
   font-size:300%;
 }
 
-p.test {
+.test {
   color:black;
   font-family:helvetica;
   font-size:100%;
   margin:120px;
+}
+
+.try {
+  color:red;
+  font-size:200%;
 }
