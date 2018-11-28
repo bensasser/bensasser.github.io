@@ -19,6 +19,8 @@ ul {
   background-color: green;
   width: 200px;
   border: 1px solid gray;
+  position: fixed;
+  overflow: auto;
 }
 
 li a {
