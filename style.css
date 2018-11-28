@@ -11,11 +11,18 @@
   margin:120px;
 }
 
+/* The following is work on the navbar specifically. */
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
+
+li a {
+  display: block;
+}
+
+/* Navbar work ends here. */
 
 a:link {
   color: blue;
