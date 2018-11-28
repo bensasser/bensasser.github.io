@@ -30,6 +30,7 @@ li a {
   text-decoration: none;
   text-align:center;
   border-bottom: 1px solid gray;
+  font-family:impact;
 }
 
 li a:last-child {
