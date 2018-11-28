@@ -27,6 +27,11 @@ li a {
   padding: 8px 16px;
   text-decoration: none;
   text-align:center;
+  border-bottom: 1px solid gray;
+}
+
+li a:last-child {
+  border-bottom: none;
 }
 
 li a:hover {
