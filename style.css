@@ -1,11 +1,11 @@
-.yes {
+.yes { /* headers */
   color:black;
   font-family:"verdana";
   font-size:300%;
   text-align:center;
 }
 
-.test {
+.test { /* paragraphs */
   color:black;
   font-family:helvetica;
   font-size:100%;
