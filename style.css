@@ -38,12 +38,12 @@ li a:last-child {
 }
 
 li a:hover {
-  background-color:green;
+  background-color:lime;
   color:white;
 }
 
 .active {
-  background-color:lime;
+  background-color:green;
   color:white;
 }
 
