@@ -31,6 +31,7 @@ li a {
   text-align:center;
   border-bottom: 1px solid gray;
   font-family:sans-serif;
+  color:white;
 }
 
 li a:last-child {
