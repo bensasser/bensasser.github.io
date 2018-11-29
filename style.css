@@ -13,6 +13,15 @@
   text-align:center;
 }
 
+.overgalaxy {
+  background-color:white;
+  color:black;
+  margin: 0;
+  padding: 0;
+  text-align:center;
+  font-family:"verdana";
+}
+
 /* The following is work on the navbar specifically. */
 ul {
   list-style-type: none;
