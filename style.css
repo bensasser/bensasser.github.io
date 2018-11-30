@@ -30,6 +30,10 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: black;
+  /*position: fixed;
+  top: 0;
+  width: 100%;
+  border: 1px solid gray;*/
 }
 
 li {
@@ -41,13 +45,17 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 18px;
   text-decoration: none;
 }
 
 li a:hover {
   background-color: lime;
   color: white;
+}
+
+li:last-child {
+  border-right: none;
 }
 
 /* The following is work on the vertical navbar specifically.
