@@ -22,7 +22,35 @@
   font-family:"verdana";
 }
 
-/* The following is work on the vertical navbar specifically. 
+/* The following is work on the horizontal navbar specifically. */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li {
+  float: left;
+  border-right: 1px solid gray;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: lime;
+  color: white;
+}
+
+/* The following is work on the vertical navbar specifically.
 ul {
   list-style-type: none;
   margin: 0;
@@ -56,12 +84,14 @@ li a:hover {
   color:white;
 }
 
+*/
+
 .active {
   background-color:green;
   color:white;
 }
 
- Navbar work ends here. */
+/* Vertical navbar work ends here. */
 
 /*a:link {
   color: blue;
