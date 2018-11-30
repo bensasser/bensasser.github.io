@@ -22,7 +22,7 @@
   font-family:"verdana";
 }
 
-/* The following is work on the navbar specifically. */
+/* The following is work on the vertical navbar specifically. 
 ul {
   list-style-type: none;
   margin: 0;
@@ -43,10 +43,12 @@ li a {
   border-bottom: 1px solid gray;
   font-family:sans-serif;
   color:white;
+  float: left;
 }
 
 li a:last-child {
   border-bottom: none;
+  float: left;
 }
 
 li a:hover {
@@ -59,7 +61,7 @@ li a:hover {
   color:white;
 }
 
-/* Navbar work ends here. */
+ Navbar work ends here. */
 
 /*a:link {
   color: blue;
