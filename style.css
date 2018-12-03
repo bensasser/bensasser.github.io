@@ -13,6 +13,15 @@
   background-color:white;
 }
 
+.darktheme {
+  color:white;
+  font-family:helvetica;
+  font-size:100%;
+  margin:auto;
+  text-align:center;
+  background-color:rgb(51,51,50);
+}
+
 .test { /* paragraphs */
   color:black;
   font-family:helvetica;
