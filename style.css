@@ -5,7 +5,7 @@
   text-align:center;
 }
 
-.yes2 {
+.yes2 { /* headers */
   color:black;
   font-family:"verdana";
   font-size:300%;
@@ -13,7 +13,7 @@
   background-color:white;
 }
 
-.darktheme {
+.darktheme { /* body */
   color:white;
   font-family:helvetica;
   font-size:100%;
@@ -30,7 +30,7 @@
   text-align:center;
 }
 
-.overgalaxy {
+.overgalaxy { /* white overlay */
   background-color:white;
   color:black;
   margin: 0;
@@ -74,6 +74,8 @@ li a:hover {
 li:last-child {
   border-right: none;
 }
+
+/* Horizontal navbar work ends here. /*
 
 /* The following is work on the vertical navbar specifically.
 ul {
