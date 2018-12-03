@@ -6,11 +6,10 @@
 }
 
 .yes2 { /* headers */
-  color:black;
+  color:white;
   font-family:"verdana";
   font-size:300%;
   text-align:center;
-  background-color:white;
 }
 
 .darktheme { /* body */
@@ -32,6 +31,10 @@
 
 .para2 { /* paragraphs */
   color:white;
+  font-family:helvetica;
+  font-size:100%;
+  margin:120px;
+  text-align:center;
 }
 
 .overgalaxy { /* white overlay */
