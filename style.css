@@ -22,12 +22,16 @@
   background-color:rgb(51,51,50);
 }
 
-.test { /* paragraphs */
+.para1 { /* paragraphs */
   color:black;
   font-family:helvetica;
   font-size:100%;
   margin:120px;
   text-align:center;
+}
+
+.para2 { /* paragraphs */
+  color:white;
 }
 
 .overgalaxy { /* white overlay */
