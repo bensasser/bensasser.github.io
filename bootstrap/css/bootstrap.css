@@ -58,7 +58,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
-body {
+/*body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
@@ -67,7 +67,7 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
-}
+}*/
 
 [tabindex="-1"]:focus {
   outline: 0 !important;
@@ -84,10 +84,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem;
 }
 
-p {
+/*p {
   margin-top: 0;
   margin-bottom: 1rem;
-}
+}*/
 
 abbr[title],
 abbr[data-original-title] {
@@ -104,7 +104,7 @@ address {
   line-height: inherit;
 }
 
-ul {
+.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -112,7 +112,38 @@ ul {
   background-color: black;
 }
 
-ol,
+.darktheme { /* body */
+  color:white;
+  font-family:helvetica;
+  font-size:100%;
+  margin:auto;
+  text-align:center;
+  background-color:rgb(51,51,50);
+}
+
+li {
+  float: left;
+  border-right: 1px solid gray;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 18px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: lime;
+  color: white;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+/*ol,
 ul,
 dl {
   margin-top: 0;
@@ -124,7 +155,7 @@ ul ul,
 ol ul,
 ul ol {
   margin-bottom: 0;
-}
+}*/
 
 dt {
   font-weight: 700;
@@ -168,7 +199,7 @@ sup {
   top: -.5em;
 }
 
-a {
+/*a {
   color: #007bff;
   text-decoration: none;
   background-color: transparent;
@@ -192,7 +223,7 @@ a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
 
 a:not([href]):not([tabindex]):focus {
   outline: 0;
-}
+}*/
 
 pre,
 code,
