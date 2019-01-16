@@ -109,19 +109,10 @@ address {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: black;
+  background-color: rgb(4,10,30);
 }
 
-.darktheme { /* body */
-  color:white;
-  font-family:helvetica;
-  font-size:100%;
-  margin:auto;
-  text-align:center;
-  background-color:rgb(51,51,50);
-}
-
-li {
+/*li {
   float: left;
   border-right: 1px solid gray;
 }
@@ -141,7 +132,7 @@ li a:hover {
 
 li:last-child {
   border-right: none;
-}
+}*/
 
 /*ol,
 ul,
