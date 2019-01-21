@@ -79,12 +79,13 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(4,10,30);
+  background-color:rgba(4,10,30,0.5);
+  border:2px solid rgba(23,32,60,0.5);
 }
 
 li {
   float: left;
-  border-right: 1px solid gray;
+  border-right: 1px solid rgba(30,32,60,0.5);
 }
 
 li a {
@@ -101,7 +102,7 @@ li a:hover {
 }
 
 li:last-child {
-  border-right: none;
+  border-right: 1px solid /*gray*/rgba(30,32,60,0.5);
 }
 
 /* Horizontal navbar work ends here. /*
