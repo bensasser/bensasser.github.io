@@ -53,6 +53,22 @@
   text-align:center;
 }
 
+#darkcaptions {
+  color:white;
+  font-family:"verdana";
+  text-align:center;
+  background-color:rgba(50,50,51,0.6);
+  border:2px solid rgba(40,40,41,0.6);
+}
+
+#darkcaptions2 {
+  color:white;
+  font-family:"verdana";
+  text-align:center;
+  background-color:rgba(50,50,51,0.9);
+  border:2px solid rgba(40,40,41,0.9);
+}
+
 .darkdiv {
   background-color:rgba(4,13,41,0.6);
   border:2px solid rgba(23,32,60,0.6);
