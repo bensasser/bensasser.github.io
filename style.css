@@ -34,7 +34,7 @@
 .para1 { /* paragraphs */
   color:white;
   font-family:helvetica;
-  font-size:100%;
+  font-size:/*100%*/1.5vw;
   margin-top:70px;
   margin-left:160px;
   margin-right:160px;
