@@ -72,10 +72,10 @@
 .darkdiv {
   background-color:rgba(4,13,41,0.6);
   border:2px solid rgba(23,32,60,0.6);
-  margin-top:30px;
-  margin-left:180px;
-  margin-right:180px;
-  margin-bottom:30px;
+  margin-top:/*30px*/3vw;
+  margin-left:/*180px*/8vw;
+  margin-right:/*180px*/8vw;
+  margin-bottom:/*30px*/3vw;
 }
 
 .overgalaxy { /* white overlay */
