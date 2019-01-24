@@ -46,10 +46,10 @@
   color:white;
   font-family:helvetica;
   font-size:/*100%*/1.4vw;
-  margin-top:70px;
-  margin-left:120px;
-  margin-right:120px;
-  margin-bottom:70px;
+  margin-top:/*70px*/4vw;
+  margin-left:/*120px*/6.5vw;
+  margin-right:/*120px*/6.5vw;
+  margin-bottom:/*70px*/4vw;
   text-align:center;
 }
 
