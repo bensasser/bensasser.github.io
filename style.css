@@ -8,7 +8,7 @@
 .yes2 { /* headers */
   color:white;
   font-family:"verdana";
-  font-size:300%;
+  font-size:/*300%*/10vw;
   text-align:center;
 }
 
