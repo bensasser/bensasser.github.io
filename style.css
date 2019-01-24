@@ -45,7 +45,7 @@
 .para2 { /* paragraphs */
   color:white;
   font-family:helvetica;
-  font-size:100%;
+  font-size:/*100%*/1.4vw;
   margin-top:70px;
   margin-left:120px;
   margin-right:120px;
