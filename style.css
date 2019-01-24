@@ -8,7 +8,7 @@
 .yes2 { /* headers */
   color:white;
   font-family:"verdana";
-  font-size:/*300%*/2vw;
+  font-size:/*300%*/5vw;
   text-align:center;
 }
 
@@ -35,10 +35,10 @@
   color:white;
   font-family:helvetica;
   font-size:100%;
-  margin-top:100px;
-  margin-left:180px;
-  margin-right:180px;
-  margin-bottom:100px;
+  margin-top:70px;
+  margin-left:160px;
+  margin-right:160px;
+  margin-bottom:70px;
   text-align:center;
 }
 
